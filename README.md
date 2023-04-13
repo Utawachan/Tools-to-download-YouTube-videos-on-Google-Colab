@@ -3,4 +3,4 @@
 
 
 📌 **Here is the link:**
-**https://colab.research.google.com/drive/1UzKlu3gBDb0XX5mFE6BijsNUNMu8vXIs#scrollTo=tc2IPJGvCoW_**
+**https://colab.research.google.com/drive/1UzKlu3gBDb0XX5mFE6BijsNUNMu8vXIs#scrollTo=tc2IPJGvCoW**
